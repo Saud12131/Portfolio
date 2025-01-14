@@ -14,7 +14,7 @@ export default function Projects() {
 User-Friendly Interface: Providing a smooth and intuitive user experience"
                         liveLink="https://wanderlust-myk8.vercel.app/"
                         sourceLink="https://github.com/Saud12131/WANDERLUST.git"
-                        imageUrl="./public/wanderlust.png"
+                        imageUrl="https://github.com/Saud12131/Portfolio/blob/main/public/wanderlust.png?raw=true"
                     />
                     <Card
                         title="Medium"
@@ -23,14 +23,14 @@ User-Friendly Interface: Providing a smooth and intuitive user experience"
  Featured CRUD operations, user authentication, and a seamless reading experience."
                         liveLink="https://medium-1-horj.onrender.com/"
                         sourceLink="https://github.com/Saud12131/Medium.git"
-                        imageUrl="./public/medium.png"
+                        imageUrl="https://github.com/Saud12131/Portfolio/blob/main/public/medium.png?raw=true"
                     />
                     <Card
                         title="Share-A-Bite"
                         description="Share a Bite is a food ordering app built using the MERN stack (MongoDB, Express, React, Node.js). The app allows users to browse a variety of food options, place orders, and enjoy a seamless food delivery experience, all in a user-friendly interface"
                         liveLink="https://share-a-bite-frontend.vercel.app/"
                         sourceLink="https://github.com/Saud12131/full-stack-task-delivery-app.git"
-                        imageUrl="./public/share-a-bite.png"
+                        imageUrl="https://github.com/Saud12131/Portfolio/blob/main/public/share-a-bite.png?raw=true"
                     />
                 </div>
             </div>
